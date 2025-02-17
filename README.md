@@ -38,7 +38,7 @@ Highly motivated and results-oriented full-stack developer and UI/UX designer wi
 * Collaborated closely with the internal programming team on back-end development and database management.
 
 **Spec Creative** | Oklahoma City, OK
-*Graphic Design, Web Design/Development* | March 2015 - 2019 *(Overlaps with Hobby Lobby, consider adjusting dates or clarifying part-time/freelance status if applicable)*
+*Graphic Design, Web Design/Development* | March 2015 - 2019
 
 * Designed and produced print materials, including magazines and marketing collateral.
 * Designed and developed responsive and accessible web pages using HTML, CSS, PHP, JavaScript, and CMS systems.
