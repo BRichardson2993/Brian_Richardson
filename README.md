@@ -1,8 +1,5 @@
 # Brian Richardson
-16700 Cordillera Way
-Edmond, OK 73012
-16700 Cordillera Way | Edmond, OK 73012 | 405-531-2993 | Richardson8662@gmail.com
-
+Edmond, OK
 
 ## Summary
 
