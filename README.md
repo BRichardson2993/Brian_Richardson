@@ -48,10 +48,10 @@ Highly motivated and results-oriented full-stack developer and UI/UX designer wi
 ## Education
 
 **Francis Tuttle Technology Center** | Oklahoma City, OK
-Web Design & Development
+Web Design & Development 2015 - 2016
 
 **Oklahoma State University** | Stillwater, OK
-Business Management
+Business Management 2014 - 2015
 
 **Oklahoma State University** | Stillwater, OK
-Studio Art
+Studio Art 1990 - 1994
