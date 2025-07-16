@@ -8,7 +8,7 @@ Highly motivated and results-oriented full-stack developer and UI/UX designer wi
 ## Skills
 
 * **Programming Languages:** C#, .NET, JavaScript, HTML, CSS, PHP, SQL
-* **Frameworks/Libraries:** MVC, .NET Core, Entity Framework
+* **Frameworks/Libraries:** MVC, .NET Core, Entity Framework, Bootstrap
 * **Databases:** SQL, MySQL, phpMyAdmin
 * **Software/Tools:** SSMS, Git, Visual Studio, VS Code, Microsoft Office, Salesforce.com, Intuit QuickBooks, Adobe Creative Suite (Illustrator, Photoshop, InDesign, XD)
 * **UI/UX:** Wireframing, Prototyping, Responsive Design, User Research, UX Surveys
